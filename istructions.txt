@@ -1,2 +1,3 @@
 Lorem ipsum
 asdf
+newline in branch
